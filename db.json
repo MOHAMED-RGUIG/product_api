@@ -1,4 +1,4 @@
-{ "products":[ 
+[ 
     {
         "id": 1,
         "title": "Arabica",
@@ -142,4 +142,4 @@
         "category": "Grain",
         "image": "https://iili.io/H8Y7EhP.webp"
     }
-]}
+]
